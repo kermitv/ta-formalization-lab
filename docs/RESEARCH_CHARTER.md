@@ -49,3 +49,23 @@ If a concept cannot be expressed as deterministic, testable logic without modifi
 - No performance claims: no market-performance, predictive, or profitability claims are permitted.
 - No hidden interpretation: inferred meaning must not be recorded as observation.
 - No normative guidance: documents define and classify concepts without recommending use.
+
+## Documentation Authority Model
+
+The repository is the single source of truth for all project artifacts and governing documents.
+
+ChatGPT project threads are used as a working and analysis layer only.
+
+Synchronization rules:
+
+- Repository -> ChatGPT:
+  Governance documents (e.g., Research Charter, Extraction Standard) may be referenced and mirrored for operational use.
+
+- ChatGPT -> Repository:
+  Only validated outputs (e.g., confirmed concepts, decisions, structured artifacts) may be promoted into the repository.
+
+- Bidirectional editing is not permitted.
+
+A concept or artifact does not become project truth until it is written into the repository.
+
+All structured artifacts (concept ledger, glossary, decisions, rejection log) exist exclusively in the repository.
