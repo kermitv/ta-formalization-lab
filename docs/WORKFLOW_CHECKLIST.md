@@ -27,6 +27,36 @@ This workflow is intentionally simplified so day-to-day work does not require ac
 - Stop:
   Do not overwork the video. Do not try to capture everything in one pass.
 
+## Scan Notes Workflow
+
+A single scan of a video may produce lightweight notes for multiple possible concepts. These notes are retrieval aids only and are not validated evidence. Scan notes must remain minimal and must not become concept definitions, formal extractions, or project truth. Later validation work must still focus on one concept at a time.
+
+Scan notes may include:
+
+- timestamp
+- brief observation
+- provisional concept tag
+
+Example scan notes:
+
+```text
+03:12 - price reacts at prior horizontal level - [pivot-level]
+05:47 - diagonal line drawn across highs - [trendline]
+08:05 - midpoint of channel referenced - [channel-midpoint]
+```
+
+Scan notes must not include:
+
+- formalization
+- concept merging
+- conclusions
+- invented rules or thresholds
+
+The operating model is:
+
+- multi-topic scan notes
+- single-topic validation
+
 ## Operating Rules
 
 - One concept at a time
